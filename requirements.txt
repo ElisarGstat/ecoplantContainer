@@ -1,0 +1,6 @@
+Flask>1
+pandas>=1
+numpy>1.17
+scikit-learn>=0.21
+joblib~=0.16.0
+xgboost>=1

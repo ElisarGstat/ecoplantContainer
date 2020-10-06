@@ -1,0 +1,12 @@
+params = {'max_depth': 3,
+          'gamma': 0,
+          'min_child_weight': 0.3,
+          'max_delta_step': 1,
+          'subsample': 1,
+          'colsample_bytree': 0.6,
+          'colsample_bylevel': 0.6,
+          'random_state': 0,
+          'seed': 10,
+          'n_estimators': 10,
+          'missing': None,
+          'eval_metric': 'logloss'}
